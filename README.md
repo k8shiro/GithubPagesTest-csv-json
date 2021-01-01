@@ -1,0 +1,2 @@
+# GithubPagesTest-csv-json
+Github Pagesでcsvは無視されるがjsonは公開されることのテストリポジトリ
